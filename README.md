@@ -9,8 +9,7 @@ it is among the most widely used website creation tools around the world and als
 
 ![download](https://user-images.githubusercontent.com/75518471/142801668-ec3b46b6-0e09-4f8d-94c0-433ce93caebd.jpg)
 
-<br>
-#
+
 <br>
 
 # With WordPress, you can create:
